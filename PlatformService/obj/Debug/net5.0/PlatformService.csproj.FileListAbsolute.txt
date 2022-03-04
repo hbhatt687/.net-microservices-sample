@@ -62,3 +62,4 @@
 /Users/harshbhatt/Documents/microservices_sample/PlatformService/obj/Debug/net5.0/PlatformService.pdb
 /Users/harshbhatt/Documents/microservices_sample/PlatformService/obj/Debug/net5.0/PlatformService.genruntimeconfig.cache
 /Users/harshbhatt/Documents/microservices_sample/PlatformService/bin/Debug/net5.0/appsettings.Production.json
+/Users/harshbhatt/Documents/microservices_sample/PlatformService/bin/Debug/net5.0/RabbitMQ.Client.dll
