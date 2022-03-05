@@ -68,6 +68,8 @@ namespace CommandsService.EventsProcessing
                     {
                         repo.CreatePlatform(platform);
                         repo.SaveChanges();
+
+                        Console.WriteLine("--> Platform Added");
                     }
                     else
                     {
