@@ -28,7 +28,7 @@ namespace CommandsService.EventsProcessing
             switch (eventType)
             {
                 case EventType.PlatformPublished:
-                    // do something
+                    AddPlatform(message);
                     break;
                 default:
                     break;
@@ -52,7 +52,7 @@ namespace CommandsService.EventsProcessing
             }
         }
 
-        private void addPlatform(string platformPublishedMessage)
+        private void AddPlatform(string platformPublishedMessage)
         {
             using (var scope = _serviceScopeFactory.CreateScope())
             {

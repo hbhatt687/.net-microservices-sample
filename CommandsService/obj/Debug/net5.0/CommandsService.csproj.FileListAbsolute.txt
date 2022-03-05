@@ -36,3 +36,5 @@
 /Users/harshbhatt/Documents/microservices_sample/CommandsService/obj/Debug/net5.0/ref/CommandsService.dll
 /Users/harshbhatt/Documents/microservices_sample/CommandsService/obj/Debug/net5.0/CommandsService.pdb
 /Users/harshbhatt/Documents/microservices_sample/CommandsService/obj/Debug/net5.0/CommandsService.genruntimeconfig.cache
+/Users/harshbhatt/Documents/microservices_sample/CommandsService/bin/Debug/net5.0/appsettings.Production.json
+/Users/harshbhatt/Documents/microservices_sample/CommandsService/bin/Debug/net5.0/RabbitMQ.Client.dll
