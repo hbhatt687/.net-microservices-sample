@@ -38,3 +38,7 @@
 /Users/harshbhatt/Documents/microservices_sample/CommandsService/obj/Debug/net5.0/CommandsService.genruntimeconfig.cache
 /Users/harshbhatt/Documents/microservices_sample/CommandsService/bin/Debug/net5.0/appsettings.Production.json
 /Users/harshbhatt/Documents/microservices_sample/CommandsService/bin/Debug/net5.0/RabbitMQ.Client.dll
+/Users/harshbhatt/Documents/microservices_sample/CommandsService/bin/Debug/net5.0/Google.Protobuf.dll
+/Users/harshbhatt/Documents/microservices_sample/CommandsService/bin/Debug/net5.0/Grpc.Core.Api.dll
+/Users/harshbhatt/Documents/microservices_sample/CommandsService/bin/Debug/net5.0/Grpc.Net.Client.dll
+/Users/harshbhatt/Documents/microservices_sample/CommandsService/bin/Debug/net5.0/Grpc.Net.Common.dll

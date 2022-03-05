@@ -1,11 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "9uV+v+lWteB7q8kVHwSWcxjSDGcgDuK8SHqYYWGCn6/KhSj5cUPDBiJi6C3Uw3rjIE872Ingcjlr2fbLkNMwHg==",
+  "dgSpecHash": "jB7SxnvrbE+A28WVgfwaEVV5qxFuXzzdSQusD3VzW/pjfEAzwAlmeJgQiUVoqDDlDL2Tbg/lrm5tyi2jNFTD0A==",
   "success": true,
   "projectFilePath": "/Users/harshbhatt/Documents/microservices_sample/CommandsService/CommandsService.csproj",
   "expectedPackageFiles": [
     "/Users/harshbhatt/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
     "/Users/harshbhatt/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "/Users/harshbhatt/.nuget/packages/google.protobuf/3.17.3/google.protobuf.3.17.3.nupkg.sha512",
+    "/Users/harshbhatt/.nuget/packages/grpc.core.api/2.37.0/grpc.core.api.2.37.0.nupkg.sha512",
+    "/Users/harshbhatt/.nuget/packages/grpc.net.client/2.38.0/grpc.net.client.2.38.0.nupkg.sha512",
+    "/Users/harshbhatt/.nuget/packages/grpc.net.common/2.38.0/grpc.net.common.2.38.0.nupkg.sha512",
+    "/Users/harshbhatt/.nuget/packages/grpc.tools/2.39.1/grpc.tools.2.39.1.nupkg.sha512",
     "/Users/harshbhatt/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/harshbhatt/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/harshbhatt/.nuget/packages/microsoft.entityframeworkcore/5.0.8/microsoft.entityframeworkcore.5.0.8.nupkg.sha512",
