@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+0HDt+ZrF8d7CT3b8hJqLfvWyPAioqOEIspncnYwoWykNW/3lGFEDrYSp1mSjs2VWl84/u5Y80qGqayOyx8buQ==",
+  "dgSpecHash": "9uV+v+lWteB7q8kVHwSWcxjSDGcgDuK8SHqYYWGCn6/KhSj5cUPDBiJi6C3Uw3rjIE872Ingcjlr2fbLkNMwHg==",
   "success": true,
   "projectFilePath": "/Users/harshbhatt/Documents/microservices_sample/CommandsService/CommandsService.csproj",
   "expectedPackageFiles": [
@@ -25,6 +25,7 @@
     "/Users/harshbhatt/.nuget/packages/microsoft.extensions.options/5.0.0/microsoft.extensions.options.5.0.0.nupkg.sha512",
     "/Users/harshbhatt/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "/Users/harshbhatt/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/harshbhatt/.nuget/packages/rabbitmq.client/6.2.2/rabbitmq.client.6.2.2.nupkg.sha512",
     "/Users/harshbhatt/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "/Users/harshbhatt/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "/Users/harshbhatt/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
@@ -32,7 +33,9 @@
     "/Users/harshbhatt/.nuget/packages/system.collections.immutable/5.0.0/system.collections.immutable.5.0.0.nupkg.sha512",
     "/Users/harshbhatt/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "/Users/harshbhatt/.nuget/packages/system.diagnostics.diagnosticsource/5.0.1/system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
-    "/Users/harshbhatt/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512"
+    "/Users/harshbhatt/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/harshbhatt/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512",
+    "/Users/harshbhatt/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }
